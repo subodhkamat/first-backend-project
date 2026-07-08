@@ -1,0 +1,16 @@
+{
+  "name": "backend-2",
+  "version": "1.0.0",
+  "description": "first full backend app",
+  "keywords": [
+    "hello",
+    "word"
+  ],
+  "license": "ISC",
+  "author": "subodh kamat",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
